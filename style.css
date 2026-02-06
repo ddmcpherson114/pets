@@ -1,0 +1,17 @@
+#container {
+    display: flex;
+    gap: 10px;
+}
+div {
+    margin: 5px;
+}
+header {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: overline underline wavy green;
+}
+footer {
+    text-align: center;
+    text-transform:uppercase;
+    text-decoration: underline overline wavy red;
+}
